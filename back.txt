@@ -7,6 +7,7 @@ CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
 CCTV7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 CCTV8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 CCTV9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
@@ -141,6 +142,7 @@ CCTV15,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226616/in
 CCTV16,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226413/index.m3u8
 CCTV16,http://[2409:8087:74d9:21::6]/270000001128/9900000016/index.m3u8
 CCTV高尔夫网球,http://[2409:8087:74d9:21::6]/270000001128/9900000094/index.m3u8
+CETV1,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022823801/timeshift.m3u8?delay=0&cdn=5202
 CETV1,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226672/index.m3u8
 CETV1,http://[2409:8087:74d9:21::6]/270000001128/9900000046/index.m3u8
 CETV2,http://[2409:8087:74d9:21::6]/270000001128/9900000071/index.m3u8
@@ -210,6 +212,7 @@ CGTN阿语,http://[2409:8087:74d9:21::6]/270000001128/9900000086/index.m3u8
 新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
 新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8
 兵团卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
+兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
 安多卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 康巴卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 延边卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
