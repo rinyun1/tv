@@ -510,6 +510,9 @@ CGTN西班牙语频道,https://tvbox.nat.netsite.cc:8043/proxy/1194246781/119424
 五师双河综合,http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8
 五师双河影视,http://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8
 六师五家渠综合,https://liveout.btzx.com.cn/62ds9e/d9vi5g.m3u8
+新疆｜兵团四师可克达拉综合,http://test5.btzx.com.cn/live/kkdl.stream/playlist.m3u8?zxinjd
+新疆｜兵团十三师新星综合,http://test5.btzx.com.cn/live/13TV.stream/playlist.m3u8?zxinjd
+新疆｜兵团十四师昆玉综合,http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8?zxinjd
 八师石河子综合,http://124.88.144.73:1935/live/xwzh/playlist.m3u8
 八师石河子影视,http://124.88.144.73:1935/live/jjsh/playlist.m3u8
 八师石河子生活,http://124.88.144.73:1935/live/dywt/playlist.m3u8
