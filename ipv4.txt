@@ -267,6 +267,13 @@ CGTN西班牙语频道,https://tvbox.nat.netsite.cc:8043/proxy/1194246781/119424
 上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
 崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
+黑龙江,#genre#
+黑龙江影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
+黑龙江都市,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
+黑龙江新闻法治,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
+黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
+黑龙江少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
+黑龙江公共农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
 吉林,#genre#
 吉林卫视高清,https://tvbox.nat.netsite.cc:8043/proxy/1218816360/1218816360.m3u8
 吉林综艺文化,https://tvbox.nat.netsite.cc:8043/proxy/1548850221/1548850221.m3u8
