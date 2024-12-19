@@ -477,7 +477,8 @@ CGTN西班牙语频道,https://tvbox.nat.netsite.cc:8043/proxy/1194246781/119424
 贵州大众生活,https://tvbox.nat.netsite.cc:8043/proxy/1102719883/1102719883.m3u8
 贵州生态乡村,https://tvbox.nat.netsite.cc:8043/proxy/2087588014/2087588014.m3u8
 贵州科教健康,https://tvbox.nat.netsite.cc:8043/proxy/1162947109/1162947109.m3u8
-贵州移动电视频道,https://tvbox.nat.netsite.cc:8043/proxy/1401142653/1401142653.m3u8
+贵州移动频道,https://tvbox.nat.netsite.cc:8043/proxy/1401142653/1401142653.m3u8
+贵州｜松桃新闻,http://live.strmtzx.cn/stxw/sd/live.m3u8
 内蒙古,#genre#
 内蒙古卫视,https://tvbox.nat.netsite.cc:8043/proxy/1149350272/1149350272.m3u8
 内蒙古新闻综合,https://tvbox.nat.netsite.cc:8043/proxy/862381212/862381212.m3u8
@@ -513,6 +514,10 @@ CGTN西班牙语频道,https://tvbox.nat.netsite.cc:8043/proxy/1194246781/119424
 新疆｜兵团四师可克达拉综合,http://test5.btzx.com.cn/live/kkdl.stream/playlist.m3u8?zxinjd
 新疆｜兵团十三师新星综合,http://test5.btzx.com.cn/live/13TV.stream/playlist.m3u8?zxinjd
 新疆｜兵团十四师昆玉综合,http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8?zxinjd
+新疆｜巴音郭楞州,http://file.loulannews.cn/nmip-media/channellive/channel101476/playlist.m3u8
+新疆｜巴音郭楞州,http://file.loulannews.cn/nmip-media/channellive/channel102433/playlist.m3u8
+新疆｜巴音郭楞州,http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
+新疆｜巴音郭楞州,http://file.loulannews.cn/nmip-media/channellive/channel104199/playlist.m3u8
 八师石河子综合,http://124.88.144.73:1935/live/xwzh/playlist.m3u8
 八师石河子影视,http://124.88.144.73:1935/live/jjsh/playlist.m3u8
 八师石河子生活,http://124.88.144.73:1935/live/dywt/playlist.m3u8
