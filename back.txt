@@ -925,6 +925,8 @@ SMART,http://litv.zapi.us.kg/?id=litv-longturn19
 靖天综合台,http://litv.zapi.us.kg/?id=4gtv-4gtv046
 镜新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv075
 客家电视,https://litv.zapi.us.kg/?id=4gtv-4gtv043
+大立電視台,https://tvbox.nat.netsite.cc:8043/proxy/1485397580/1485397580.m3u8
+亚洲中文,https://tvbox.nat.netsite.cc:8043/proxy/847703940/847703940.m3u8
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
