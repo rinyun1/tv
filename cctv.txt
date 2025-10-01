@@ -1812,6 +1812,7 @@ HOY76,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=adkXsM&tk=zBOsAksFrYM2
 HOY77,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=MBlkps&tk=zBOsAksFrYM2
 HOY78,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=w5Uquy&tk=zBOsAksFrYM2
 VIUTV,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=gUtkUx&tk=zBOsAksFrYM2
+VIUTV,https://smt.1678520.xyz/smt3.2.1.php?id=viu1_twn
 viutv6,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=RakUun&tk=zBOsAksFrYM2
 RHK31,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=T8Kqjh&tk=zBOsAksFrYM2
 RHK32,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=FPQ3og&tk=zBOsAksFrYM2
