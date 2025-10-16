@@ -732,7 +732,32 @@ CCTV16-4K,http://1.30.81.248:4022/udp/239.125.2.218:4120
 巴音郭楞州维语,rtmp://tv.loulannews.cn/channellive/ch3
 巴音郭楞州教育,rtmp://tv.loulannews.cn/channellive/ch4
 巴音郭楞州教育,http://file.loulannews.cn/nmip-media/channellive/channel104199/playlist.m3u8
-
+福建,#genre#
+福州新闻,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+福州生活,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+青海,#genre#
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
+青海卫视,http://stream.qhbtv.com/qhws/playlist.m3u8
+青海都市,http://stream.qhbtv.com/qhds/sd/live.m3u8
+青海都市,http://stream.qhbtv.com/qhds/playlist.m3u8
+青海经视,http://stream.qhbtv.com/qhsh/sd/live.m3u8
+青海经视,http://stream.qhbtv.com/qhsh/playlist.m3u8
+安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8
+安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8 
+安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8 
+青海经视,http://stream.qhbtv.com/qhsh/sd/live.m3u8 
+青海都市,http://stream.qhbtv.com/qhds/sd/live.m3u8
+西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8
+西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8
+大通电视台,http://dtrmlive.qhdtrm.cn/testpush/sd/live.m3u8
+青海经视,http://stream.qhbtv.com/qhsh/sd/live.m3u8?_upt=ba357f031594546763
+青海都市,http://stream.qhbtv.com/qhds/sd/live.m3u8?_upt=f868bafe1594546577
+西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8
+西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8
+西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
+西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd
 
 亮剑️️全集,#genre#
 亮剑 第01集,https://vip.ffzy-play1.com/20230113/51806_72d20784/2000k/hls/mixed.m3u8
