@@ -17,6 +17,20 @@ CCTV-14少儿,http://219.144.190.2:9901/tsfile/live/0014_1.m3u8?key=txiptv
 CCTV-15音乐,http://219.144.190.2:9901/tsfile/live/0015_1.m3u8?key=txiptv
 CCTV-16奥林匹克,http://219.144.190.2:9901/tsfile/live/1040_1.m3u8?key=txiptv
 CCTV-17农业农村,http://219.144.190.2:9901/tsfile/live/1000_1.m3u8?key=txiptv
+移动戏曲,http://150.158.10.195:80/dxxw.php?id=ydxj
+移动戏曲,http://xxwx.yoesun.com/xxw/河南网.php?id=ydxj
+移动戏曲,http://1.94.31.214/php/hntv.php?id=ydxj
+河南梨园,http://1.94.31.214/php/hntv.php?id=hnly
+河南梨园,http://150.158.10.195:80/dxxw.php?id=hnly
+河南梨园,http://150.158.10.195:80/dxxw.php?id=hnly
+1905电影网,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
+经典影艺,rtmp://live.gxrb.com.cn/pull/red_movies_0501
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 北京卫视,http://219.144.190.2:9901/tsfile/live/0122_1.m3u8?key=txiptv
 天津卫视,http://219.144.190.2:9901/tsfile/live/1024_1.m3u8?key=txiptv
 东方卫视,http://219.144.190.2:9901/tsfile/live/1019_1.m3u8?key=txiptv
@@ -47,14 +61,7 @@ CCTV-17农业农村,http://219.144.190.2:9901/tsfile/live/1000_1.m3u8?key=txiptv
 兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8?key=txiptv
 三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws&key=txiptv
 
-移动戏曲,http://1.94.31.214/php/hntv.php?id=ydxj
-河南梨园,http://1.94.31.214/php/hntv.php?id=hnly
-河南梨园,http://150.158.10.195:80/dxxw.php?id=hnly
-河南梨园,http://150.158.10.195:80/dxxw.php?id=hnly
-移动戏曲,http://150.158.10.195:80/dxxw.php?id=ydxj
-移动戏曲,http://xxwx.yoesun.com/xxw/河南网.php?id=ydxj
-1905电影网,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
-经典影艺,rtmp://live.gxrb.com.cn/pull/red_movies_0501
+
 山西都市,http://219.144.190.2:9901/tsfile/live/1030_1.m3u8?key=txiptv
 教育卫视,http://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 卡酷少儿,http://zqh2333.top:2222/rtp/239.93.24.208:5140?key=txiptv
