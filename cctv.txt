@@ -101,15 +101,9 @@ CCTV俄语,http://t.061899.xyz/tl/dq.php?id=cgtnr
 大湾区卫视,http://t.061899.xyz/tl/dq.php?id=dwqws
 
 上海第一财经,http://t.061899.xyz/tl/dq.php?id=dycj
-
-法治天地,http://t.061899.xyz/tl/dq.php?id=fztd
-
-欢笑剧场,http://t.061899.xyz/tl/dq.php?id=hxjc
-
 江苏城市,http://t.061899.xyz/tl/dq.php?id=jscs
 江苏综艺,http://t.061899.xyz/tl/dq.php?id=jszy
 江苏影视,http://t.061899.xyz/tl/dq.php?id=jsys
-江苏公共新闻,http://t.061899.xyz/tl/dq.php?id=jsggxw
 江苏国际,http://t.061899.xyz/tl/dq.php?id=jsgj
 江苏教育,http://t.061899.xyz/tl/dq.php?id=jsjy
 江苏体育休闲,http://t.061899.xyz/tl/dq.php?id=jstyxx
@@ -119,14 +113,6 @@ CCTV俄语,http://t.061899.xyz/tl/dq.php?id=cgtnr
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-山东地区,#genre# 
-山东齐鲁,http://nw.jiayinkeji.xin/migunew/gtqilu.php?id=qlpd
-山东综艺,http://nw.jiayinkeji.xin/migunew/gtqilu.php?id=yxzy
-山东生活,http://nw.jiayinkeji.xin/migunew/gtqilu.php?id=yxsh
-山东文旅,http://nw.jiayinkeji.xin/migunew/gtqilu.php?id=yxys
-山东农科,http://nw.jiayinkeji.xin/migunew/gtqilu.php?id=nkpd
-山东体育,http://nw.jiayinkeji.xin/migunew/gtqilu.php?id=typd
-山东教育,http://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 
 河南地区,#genre#
 开封文旅,http://live.dxhmt.cn:9081/tv/10200-3.m3u8
