@@ -18,14 +18,8 @@ CCTV14,webview://https://yangshipin.cn/tv/home?pid=600001809
 CCTV15,webview://https://yangshipin.cn/tv/home?pid=600001815
 CCTV16 ,webview://https://yangshipin.cn/tv/home?pid=600098637
 CCTV17,webview://https://yangshipin.cn/tv/home?pid=600001810
-CCTV4K,webview://https://yangshipin.cn/tv/home?pid=600002264
-CCTV8K,webview://https://yangshipin.cn/tv/home?pid=600156816
-CGTN英语,webview://https://yangshipin.cn/tv/home?pid=600014550
-CGTN记录,webview://https://yangshipin.cn/tv/home?pid=600084781
-CGTN俄语,webview://https://yangshipin.cn/tv/home?pid=600084758
-CGTN法语,webview://https://yangshipin.cn/tv/home?pid=600084704
-CGTN西语,webview://https://yangshipin.cn/tv/home?pid=600084744
-CGTN阿语,webview://https://yangshipin.cn/tv/home?pid=600084782
+
+
 CCTV 风云剧场,webview://https://yangshipin.cn/tv/home?pid=600099658
 CCTV 第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655
 CCTV 怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
@@ -86,6 +80,32 @@ CCTV17,webview://https://tv.cctv.com/live/cctv17
 
 CCTV4,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952&toc_style_id=feeds_only_back&share_to=copy_url&track_id=7f4e2027-e822-49f3-88b1-2ffe00919f92
 CCTV13,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228&toc_style_id=feeds_only_back&share_to=copy_url&track_id=ac0e1dc7-d2a2-403b-ad45-9ed44fe89895
+CCTV4K,webview://https://yangshipin.cn/tv/home?pid=600002264
+CCTV8K,webview://https://yangshipin.cn/tv/home?pid=600156816
+荔枝网,#genre#
+
+广东卫视,webview://https://www.gdtv.cn/tvChannelDetail/43
+广东影视,webview://https://www.gdtv.cn/tvChannelDetail/53
+广东珠江,webview://https://www.gdtv.cn/tvChannelDetail/44
+广东新闻,webview://https://www.gdtv.cn/tvChannelDetail/45
+广东民生,webview://https://www.gdtv.cn/tvChannelDetail/48
+深圳卫视,webview://https://www.sztv.com.cn/dianshi.shtml?id=7867
+深圳都市,webview://https://www.sztv.com.cn/dianshi.shtml?id=7868
+深圳电视剧,webview://https://www.sztv.com.cn/dianshi.shtml?id=7880
+大湾区卫视,webview://https://www.gdtv.cn/tvChannelDetail/51
+大湾区卫视（海外版）,webview://https://www.gdtv.cn/tvChannelDetail/46
+4K超高清,webview://https://www.gdtv.cn/tvChannelDetail/16
+广东少儿,webview://https://www.gdtv.cn/tvChannelDetail/54
+广东体育,webview://https://www.gdtv.cn/tvChannelDetail/47
+嘉佳卡通,webview://https://www.gdtv.cn/tvChannelDetail/66
+岭南戏曲,webview://https://www.gdtv.cn/tvChannelDetail/15
+广东移动,webview://https://www.gdtv.cn/tvChannelDetail/74
+荔枝台,webview://https://www.gdtv.cn/tvChannelDetail/100
+纪录片,webview://https://www.gdtv.cn/tvChannelDetail/94
+GRTN健康频道,webview://https://www.gdtv.cn/tvChannelDetail/99
+GRTN文化频道,webview://https://www.gdtv.cn/tvChannelDetail/75
+GRTN生活频道,webview://https://www.gdtv.cn/tvChannelDetail/102
+GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 
 
 
@@ -166,31 +186,6 @@ CETV1,webview://https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3
 CETV2,webview://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
 CETV4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
 每经AI电视,https://swiftplay.hxkjmedia.com/tv/spbW.m3u8
-荔枝网,#genre#
-
-广东卫视,webview://https://www.gdtv.cn/tvChannelDetail/43
-广东影视,webview://https://www.gdtv.cn/tvChannelDetail/53
-广东珠江,webview://https://www.gdtv.cn/tvChannelDetail/44
-广东新闻,webview://https://www.gdtv.cn/tvChannelDetail/45
-广东民生,webview://https://www.gdtv.cn/tvChannelDetail/48
-深圳卫视,webview://https://www.sztv.com.cn/dianshi.shtml?id=7867
-深圳都市,webview://https://www.sztv.com.cn/dianshi.shtml?id=7868
-深圳电视剧,webview://https://www.sztv.com.cn/dianshi.shtml?id=7880
-大湾区卫视,webview://https://www.gdtv.cn/tvChannelDetail/51
-大湾区卫视（海外版）,webview://https://www.gdtv.cn/tvChannelDetail/46
-4K超高清,webview://https://www.gdtv.cn/tvChannelDetail/16
-广东少儿,webview://https://www.gdtv.cn/tvChannelDetail/54
-广东体育,webview://https://www.gdtv.cn/tvChannelDetail/47
-嘉佳卡通,webview://https://www.gdtv.cn/tvChannelDetail/66
-岭南戏曲,webview://https://www.gdtv.cn/tvChannelDetail/15
-广东移动,webview://https://www.gdtv.cn/tvChannelDetail/74
-荔枝台,webview://https://www.gdtv.cn/tvChannelDetail/100
-纪录片,webview://https://www.gdtv.cn/tvChannelDetail/94
-GRTN健康频道,webview://https://www.gdtv.cn/tvChannelDetail/99
-GRTN文化频道,webview://https://www.gdtv.cn/tvChannelDetail/75
-GRTN生活频道,webview://https://www.gdtv.cn/tvChannelDetail/102
-GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
-
 
 上海,#genre#
 
